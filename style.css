@@ -16,7 +16,9 @@ hr {
     height: auto;
     min-height: 160px;
     overflow: hidden;
+    margin: auto;
     margin-top: 20px;
+    width: 360px;
 }
 
 .outlet-wrapper {
@@ -151,9 +153,10 @@ hr {
 }
 
 .btn {
-    margin: 0 70px;
+    margin: 0 auto;
     margin-top: 20px;
-    padding: 7px 12px;
+    padding:7px 12px;
+    width: 200px;
     border: 2px solid red;
     border-radius: 4px;
     color: red;
